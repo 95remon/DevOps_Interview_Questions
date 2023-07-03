@@ -1,5 +1,7 @@
 # AWS Q & A
-- what’s EC2 Instance types?
+
+
+### what’s EC2 Instance types?
   
   There are numerous EC2 Instance types available, each designed to cater to specific workload requirements.
 
@@ -16,7 +18,7 @@
     ![EC2_Naming](./etc/ec2-instance-types-comparison.jpg)
     ![EC2_Naming](./etc/ec2-instance-types-in-aws.png)
 
-- What’s AWS VPC?
+### What’s AWS VPC?
   
   AWS VPC (Amazon Virtual Private Cloud) is a virtual network service provided by Amazon Web Services. It allows users to create their own isolated network environments within the AWS cloud. With VPC, users can define their network topology, control access, and securely connect their resources. It provides flexibility and control over network infrastructure in the AWS cloud.
 
