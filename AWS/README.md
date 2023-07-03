@@ -1,8 +1,8 @@
 # AWS Q & A
 - what’s EC2 Instance types?
   - There are numerous EC2 Instance types available, each designed to cater to specific workload requirements.
-  
-  ![EC2_Naming](./etc/OIP.jpg)
+
+    ![EC2_Naming](./etc/OIP.jpg)
   
     Here are some commonly used EC2 Instance types: 
     1. `General Purpose Instances` (e.g., t2.micro, t3.medium) : These instances provide a balance of compute, memory, and network resources. They are suitable for a wide range of applications, including small to medium-sized databases, web servers, and development environments.
