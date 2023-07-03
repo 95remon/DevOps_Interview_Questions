@@ -18,7 +18,7 @@
     ![EC2_Naming](./etc/ec2-instance-types-comparison.jpg)
     ![EC2_Naming](./etc/ec2-instance-types-in-aws.png)
 
-### What’s AWS VPC?
+## What’s AWS VPC?
   
   AWS VPC (Amazon Virtual Private Cloud) is a virtual network service provided by Amazon Web Services. It allows users to create their own isolated network environments within the AWS cloud. With VPC, users can define their network topology, control access, and securely connect their resources. It provides flexibility and control over network infrastructure in the AWS cloud.
 
@@ -36,6 +36,7 @@
     - `Routing and Network Gateways`: VPC allows users to define and manage routing tables, which control the traffic flow between subnets and the internet. Users can also configure network gateways, such as NAT gateways or virtual private gateways, to enable specific connectivity requirements.
     - `Integration with AWS Services`: AWS VPC seamlessly integrates with other AWS services, such as Amazon EC2 (Elastic Compute Cloud), Amazon RDS (Relational Database Service), and Amazon S3 (Simple Storage Service). This integration allows resources within the VPC to securely communicate with and utilize these services.
 
-    By leveraging AWS VPC, users can create a secure and isolated network environment for their applications and services in the AWS cloud. It provides flexibility, scalability, and control over the network infrastructure, enabling users to design and deploy their resources according to their specific networking needs.
 
-    ![EC2_Naming](./etc/jira-arch-on-aws.9d422797475ea5bd5d38f009ca8c540736f5449e.png)
+  By leveraging AWS VPC, users can create a secure and isolated network environment for their applications and services in the AWS cloud. It provides flexibility, scalability, and control over the network infrastructure, enabling users to design and deploy their resources according to their specific networking needs.
+
+   ![EC2_Naming](./etc/jira-arch-on-aws.9d422797475ea5bd5d38f009ca8c540736f5449e.png)
